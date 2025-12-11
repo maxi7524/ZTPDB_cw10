@@ -1,2 +1,2 @@
-print('Hello')
-print('Hello looser')
+print('Hello, ...')
+print('Hello winner ')
